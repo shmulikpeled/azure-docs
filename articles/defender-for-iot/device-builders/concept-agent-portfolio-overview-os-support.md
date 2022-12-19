@@ -20,6 +20,7 @@ Most of the Linux Operating Systems (OS) are covered by both agents. The agents 
 | Debian 11| ✓ | ✓ | |
 | Ubuntu 18.04 | ✓ | ✓ | ✓ |
 | Ubuntu 20.04 | ✓ | ✓ | ✓ |
+| Ubuntu 22.04 | ✓ | | |
 
 For a more granular view of the micro agent-operating system dependencies, see [Linux dependencies](concept-micro-agent-linux-dependencies.md#linux-dependencies).
 
